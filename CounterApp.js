@@ -69,7 +69,7 @@ export default function CounterApp() {
 
   return (
     <div className="CounterApp">
-      <h1>Counter App</h1>
+      <h1>Lily Counter App</h1>
       <span style={styles.number}>{count}</span>
       <button onClick={plus1}>+1</button>
       <button onClick={plus3}>+3</button>
